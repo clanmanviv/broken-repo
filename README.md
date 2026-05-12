@@ -22,7 +22,9 @@ The file sensor\_data.txt contains the generated sensor readings.
 
 
 
-\## Submission Details
+Final submission completed on:
 
-Final submission pending.
+12 May 2026, 4:10 PM 
+
+
 
